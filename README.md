@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Tuyển
-![dev](https://user-images.githubusercontent.com/84759971/175314383-2a906549-22a8-454d-9bf5-d04136e906a0.gif)
+![nvt25](https://user-images.githubusercontent.com/84759971/175315310-4db214bb-857a-4332-a195-0c15a733029a.gif)
+
 <!--
 **nvt25/nvt25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
